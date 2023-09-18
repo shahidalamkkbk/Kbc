@@ -192,7 +192,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ :<a href=https://t.me/allmovies_webserieshere> {file_name} </a>""" 
+    CAPTION = """<b>📝 NAME ➠ : <a href=https://t.me/allmovies_webserieshere> {file_name} </a>
+
+    ⚙️ SIZE ➠ : {file_size}""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
