@@ -195,9 +195,17 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : <a href=https://t.me/SA_Bots_Mklinks> {file_name} </a>
+    CAPTION = """{file_name}
 
-    ⚙️ SIZE ➠ : {file_size}""" 
+    •────•────────•────•
+📌 Mᴏᴠɪᴇs Gʀᴏᴜᴘ : <a href=https://t.me/+sFln_UBbyUI1NWQ1>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>
+🎬 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ  : <a href=https://t.me/tonystarkbotsx>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>
+•────•────────•────•
+
+©️ Pᴏᴡᴇʀᴇᴅ Bʏ : <a href=https://t.me/tonystarkbotsx>Sᴛᴀʀᴋ Nᴇᴛᴡᴏʀᴋ™</a></b>
+
+
+Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ Us💞..Pʟᴇᴀsᴇ Sʜᴀʀᴇ Us Aɴᴅ Jᴏɪɴ Oᴜʀ Mᴏᴠɪᴇs Gʀᴏᴜᴘ Aɴᴅ Jᴏɪɴ Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ Fᴏʀ Lᴀᴛᴇsᴛ Uᴘᴅᴀᴛᴇ..👋🏻""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
