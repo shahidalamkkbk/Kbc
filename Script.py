@@ -202,8 +202,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 🎬 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ  : <a href=https://t.me/tonystarkbotsx>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>
 •────•────────•────•
 
-©️ Pᴏᴡᴇʀᴇᴅ Bʏ : <a href=https://t.me/tonystarkbotsx>Sᴛᴀʀᴋ Nᴇᴛᴡᴏʀᴋ™</a></b>
-
+©️ Pᴏᴡᴇʀᴇᴅ Bʏ : <a href=https://t.me/Stark_Botz7>Sᴛᴀʀᴋ Bᴏᴛᴢ™</a></b>
 
 Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ Us💞..Pʟᴇᴀsᴇ Sʜᴀʀᴇ Us Aɴᴅ Jᴏɪɴ Oᴜʀ Mᴏᴠɪᴇs Gʀᴏᴜᴘ Aɴᴅ Jᴏɪɴ Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ Fᴏʀ Lᴀᴛᴇsᴛ Uᴘᴅᴀᴛᴇ..👋🏻""" 
 
