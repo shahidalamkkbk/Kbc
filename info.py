@@ -49,8 +49,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Starkbots')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'mklinks.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '9e865d721174a5db482e7d28baf6a74fd51eb0c5')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Uvlink.net')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'ec2b48e488b1bb758737d39bb49ba99db3117ef8')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
