@@ -32,7 +32,7 @@ CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHAN
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '').split()]
-auth_channel = environ.get('AUTH_CHANNEL', '-1001965794225')
+auth_channel = environ.get('AUTH_CHANNEL', '-1002141922564')
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
@@ -49,15 +49,15 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Starkbots')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Uvlink.net')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'ec2b48e488b1bb758737d39bb49ba99db3117ef8')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Ziplinker.net')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'd67438817c7ab023e8fb6684611e23bd3b13eaa7')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+sFln_UBbyUI1NWQ1')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/tonystarkbotsx')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Stark_Network07')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_to_download_movies_in_group/6')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
