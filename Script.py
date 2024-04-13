@@ -195,16 +195,15 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """{file_name}
-
-    •────•────────•────•
-📌 Mᴏᴠɪᴇs Gʀᴏᴜᴘ : <a href=https://t.me/+sFln_UBbyUI1NWQ1>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>
-🎬 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ  : <a href=https://t.me/tonystarkbotsx>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>
+    CAPTION = """<b><i><a href=https://t.me/+sFln_UBbyUI1NWQ1>{file_name}</a>
+ 
+📁 Fɪʟᴇ Sɪᴢᴇ : {size} 
+•────•────────•────•
+📌 Mᴏᴠɪᴇs Gʀᴏᴜᴘ : <a href=https://t.me/+sFln_UBbyUI1NWQ1>Cʟɪᴄᴋ Hᴇʀᴇ</a>
+🎬 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ : <a href=https://t.me/+M71jOVrHkNwwNzM1>Cʟɪᴄᴋ Hᴇʀᴇ</a>
 •────•────────•────•
 
-©️ Pᴏᴡᴇʀᴇᴅ Bʏ : <a href=https://t.me/Stark_Botz7>Sᴛᴀʀᴋ Bᴏᴛᴢ™</a></b>
-
-Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ Us💞..Pʟᴇᴀsᴇ Sʜᴀʀᴇ Us Aɴᴅ Jᴏɪɴ Oᴜʀ Mᴏᴠɪᴇs Gʀᴏᴜᴘ Aɴᴅ Jᴏɪɴ Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ Fᴏʀ Lᴀᴛᴇsᴛ Uᴘᴅᴀᴛᴇ..👋🏻""" 
+©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href=https://t.me/+M71jOVrHkNwwNzM1>𝗦ᴛᴀʀᴋ 𝗠ᴏᴠɪᴇ𝘀™</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
